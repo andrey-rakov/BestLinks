@@ -10,4 +10,6 @@ sqlparse==0.3.0
 Click==7.0
 html5lib==0.999
 httplib2==0.9.1
-gunicorn
+itsdangerous==1.1.0
+MarkupSafe==1.1.1
+gunicorn==19.9.0
